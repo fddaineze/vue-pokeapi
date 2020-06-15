@@ -9,8 +9,8 @@ Consumo da PokeAPI 2.0 (https://pokeapi.co/) com a utilização de vue.js + axio
 
 É possível ver o resultado do projeto através [DESTE LINK](https://daineze.dev/portfolio/pokeapi/).
 
-<img src="assets/img/home.jpg" alt="Home do projeto" height=300>
-<img src="assets/img/loading.jpg" alt="Tela de loading" height=300>
+<img src="assets/img/home.jpg" alt="Home do projeto" width=600><br>
+<img src="assets/img/loading.jpg" alt="Tela de loading" width=600>
 
 ### Fontes
 
