@@ -1,4 +1,8 @@
-![last commit badge](https://badgen.net/github/last-commit/fddaineze/vue-pokeapi) ![license badge](https://badgen.net/github/license/fddaineze/vue-pokeapi) ![commits badge](https://badgen.net/github/commits/fddaineze/vue-pokeapi) ![github badge](https://badgen.net/badge/icon/github?icon=github&label)
+![GitHub top language](https://img.shields.io/github/languages/top/fddaineze/vue-pokeapi)
+![last commit badge](https://badgen.net/github/last-commit/fddaineze/vue-pokeapi)
+![license badge](https://badgen.net/github/license/fddaineze/vue-pokeapi)
+![commits badge](https://badgen.net/github/commits/fddaineze/vue-pokeapi)
+![github badge](https://badgen.net/badge/icon/github?icon=github&label)
 
 
 ## Vue.js PokeAPI
